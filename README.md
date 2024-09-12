@@ -3,8 +3,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Completing Bachelor of Science in Software Engineering from Daffodil International University.
-- 🌱 &nbsp; Learning more about Angular, React, NextJs, Unit Test, AWS, Docker.
+- 🎓 &nbsp; Completing Bachelor of Science in Software Engineering from Daffodil International University and doing masters in IT (Major in Software Design and Development) in Central Queensland University(CQUniversity) Melbourne.
+- 🌱 &nbsp; Learning more about Blockchain, AWS, Azure, Docker, Kubernetes.
+- Doing research on Blockchain security.
 
 <a href="https://github.com/Farhankaioum">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Farhankaioum&theme=buefy&show_icons=true" />
