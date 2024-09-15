@@ -20,8 +20,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/md-keiuom-miah/" style="margin-right:10px;">LINKEDIN</a>
-<a href="mailto:keiuom.swe@gmail.com">GMAIL </a>
+<a href="https://www.linkedin.com/in/md-keiuom-miah/" style="margin-right:10px;">LINKEDIN</a> | 
+<a href="mailto:keiuom.swe@gmail.com"> GMAIL </a>
 </p>
 
 ⭐️ From [Keiuom](https://github.com/Farhankaioum)
