@@ -2,6 +2,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
+- Fullstack Software Engineer with over 3.5 years of Industry Experience.
+- Proficient in C#, Dot Net Framework, Dot Net Core, AngularJS, Angular & Flutter.
+- Minor experienced with Rust and Smart Contract.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Completing Bachelor of Science in Software Engineering from Daffodil International University and doing masters in IT (Major in Software Design and Development) in Central Queensland University(CQUniversity) Melbourne.
 - 🌱 &nbsp; Learning more about Blockchain, AWS, Azure, Docker, Kubernetes.
