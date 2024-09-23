@@ -1,4 +1,5 @@
 <h2> Hey there! I'm Keiuom.</h2>
+<h4> Looking for a Part-time/Casual/Contract Remote Position</h4>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
