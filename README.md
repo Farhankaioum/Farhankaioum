@@ -1,6 +1,11 @@
 <h2> Hey there! I'm Keiuom.</h2>
 <h1> Looking for a Full-time/Part-time/Casual/Contract Remote Position</h1>
 
+ - FullStack Software Engineer position </br>
+ - Backend Software Engineer position </br>
+ - Frontend Software Engineer position </br>
+ - Mobile App Developer position </br>
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - Fullstack Software Engineer with over 3.5 years of Industry Experience.
